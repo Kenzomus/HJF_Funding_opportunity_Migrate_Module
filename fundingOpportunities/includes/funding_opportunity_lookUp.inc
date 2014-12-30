@@ -83,70 +83,44 @@ protected function createStub(Migration $migration, array $source_id) {
     }
   }
   
-function mylookup($title){
+function mylookup($row){
+
+
 $type= 'RADS';
 $status= 1;
-$result = db_query("SELECT nid,created FROM {node} Where type=:type and status =:status and title=:title ",
-
-array(':type'=>$type, ':status' =>1,':title'=>'title'));
+if(iset($row->title)){
+$title = $row->title;
+$result = db_query("SELECT nid,created FROM {node} Where type=:type and status =:status and title=:title ", array(':type'=>$type, ':status' =>1,':title'=>$title));
 
  //Result is returned as a iterable object that returns a stdClass object on each iteration
-if(!empty($result)){
+//if(!empty($result)){
+$nid[]="";
+
 foreach ($result as $record) {
   // Perform operations on $record->title, etc. here.
-  $nid= $record->nid ;
-//echo $record->title."<br/>";
-//return $record->nid;
-//"<br/>";
-//return $result;
-//$nid = $result->fetchfield();
+  $nid[]= $record->nid;
 
-//$this->$row->source_RADS_ID= $result;
-//}
-
-//}
-//}
-//class MigrateEntityReferenceFieldHandler extends MigrateSimpleFieldHandler {
-  //public function __construct() {
-    //parent::__construct(array(
-     // 'value_key' => 'target_id', 
-     // 'skip_empty' => TRUE,
-    //)//);
-
-    //$//this->registerTypes(array('entityreference'));
   }
-  return  $nid;
+  }
+  return $nid;
 }
+}
+function prepareRow($row){
+$type= 'RADS';
+$status= 1;
+$title = $row->title;
+$result = db_query("SELECT nid,created FROM {node} Where type=:type and status =:status and title=:title ", array(':type'=>$type, ':status' =>1,':title'=>$title));
 
-
-
-//public function prepare_row($row){
-
-//$input_title= $row->source_RADS_ID;
-//$type= 'RADS';
-//$status= 1;
-//$result = db_query("SELECT nid,created FROM {node} Where type=:type and status =:status and title=:title ",
-
-//array(':type'=>$type, ':status' =>1,':title'=>'$input_title',));
-
-// Result is returned as a iterable object that returns a stdClass object on each iteration
+ //Result is returned as a iterable object that returns a stdClass object on each iteration
 //if(!empty($result)){
+$nid[]="";
 
-//foreach ($result as $record) {
+foreach ($result as $record) {
   // Perform operations on $record->title, etc. here.
-  
-//echo
-//$nid= $record->nid ;
-//return $record->nid."<br/>";
+  $nid[]= $record->nid;
 
-//return $row->source_RADS_ID= $nid;
- 
-//drush_print_r($row);
-
-
+  }
+$row->source_RADS_ID = $nid;
 }
-}
-//}
-
 
 
