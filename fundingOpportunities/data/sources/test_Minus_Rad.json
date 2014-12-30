@@ -1,0 +1,154 @@
+{
+    "opportunities": [
+        {
+            "title": "NINDS Program Project Grant (P01)",
+            "number": "PAR-14-183",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-14-183.html",
+            "sponsor": "NIH",
+            "program": "NINDS",
+            "type": "P01",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,25"
+        },
+        {
+            "title": "Exploratory Clinical Trial Grants in Arthritis and Musculoskeletal and Skin Diseases (R21)",
+            "number": "PAR-14-192",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-14-192.html",
+            "sponsor": "NIH",
+            "program": "NIAMS",
+            "type": "R21",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,2,16"
+        },
+        {
+            "title": "Research in latent tuberculosis infection (LTBI) in the setting of HIV Co-Infection (R01) ",
+            "number": "PAR-13-061",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-13-061.html",
+            "sponsor": "NIH",
+            "program": "NIAID",
+            "type": "R01",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,2,5"
+        },
+        {
+            "title": "USAMRMC Broad Agency Announcement (BAA)",
+            "number": "W81XWH-BAA-15-1",
+            "url": "https://www.usamraa.army.mil/pages/Baa_Forms/index.cfm?",
+            "sponsor": "USAMRAA",
+            "program": "BAA",
+            "type": "14-1",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,9,30"
+        },
+        {
+            "title": "NIDA Avant-Garde Award Program for HIV/AIDS and Drug Use Research (DP1)",
+            "number": "RFA-DA-15-004",
+            "url": "http://grants.nih.gov/grants/guide/rfa-files/RFA-DA-15-004.html",
+            "sponsor": "NIH",
+            "program": "NIDA",
+            "type": "DP1",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,7"
+        },
+        {
+            "title": "HIV Vaccine Research and Design (HIVRAD) Program (P01)",
+            "number": "PAR-14-206",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-14-206.html",
+            "sponsor": "NIH",
+            "program": "NIAID",
+            "type": "P01",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,7"
+        },
+        {
+            "title": "Improving Delivery of HIV Prevention and Treatment through Implementation Science and Translational Research (R21)",
+            "number": "PA-14-129",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-129.html",
+            "sponsor": "NIH",
+            "program": "NIAID, NIMH",
+            "type": "R21",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,7"
+        },
+        {
+            "title": "Accelerating Improvements in the HIV Care Continuum (R01)",
+            "number": "PA-14-132",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-132.html",
+            "sponsor": "NIH",
+            "program": "NIAID, NIMH",
+            "type": "R01",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,2,5"
+        },
+        {
+            "title": "Accelerating Improvements in the HIV Care Continuum (R21)",
+            "number": "PA-14-130",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-130.html",
+            "sponsor": "NIH",
+            "program": "NIAID, NIMH",
+            "type": "R21",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,7"
+        },
+        {
+            "title": "Improving Delivery of HIV Prevention and Treatment through Implementation Science and Translational Research (R01)",
+            "number": "PA-14-131",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-131.html",
+            "sponsor": "NIH",
+            "program": "NIAID, NIMH",
+            "type": "R01",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,7"
+        },
+        {
+            "title": "NIAID Investigator Initiated Program Project Applications (P01)",
+            "number": "PAR-13-254",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-13-254.html",
+            "sponsor": "NIH",
+            "program": "NIAID",
+            "type": "P01",
+            "preproposal_deadline": "2016,6,15",
+            "proposal_deadline": "2015,1,25"
+        },
+        {
+            "title": "NK Cells to Induce Immunological Memory to Prevent HIV Infection (R01)",
+            "number": "PA-14-217",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-217.html",
+            "sponsor": "NIH",
+            "program": "NIAID",
+            "type": "R01",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,7"
+        },
+        {
+            "title": "B Cell Help Immunology Program for AIDS Vaccine Strategies (R01)",
+            "number": "PA-14-216",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-216.html",
+            "sponsor": "NIH",
+            "program": "NIAID",
+            "type": "R01",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,7"
+        },
+        {
+            "title": "Fc Receptor (FcR) and Antibody Effector Function in HIV Vaccine Discovery (R01)",
+            "number": "PA-14-218",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-218.html",
+            "sponsor": "NIH",
+            "program": "NIAID",
+            "type": "R01",
+            "preproposal_deadline": "",
+            "proposal_deadline": "2015,1,7"
+        },
+        {
+            "title": "HIV Vaccine Vector-Host Interactions: Understanding the Biology and Immunology (R01)",
+            "number": "PA-14-215",
+            "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-215.html",
+            "sponsor": "NIH",
+            "program": "NIAID",
+            "type": "P01",
+            "preproposal_deadline": "2016,6,15",
+            "proposal_deadline": "2015,1,25"
+        }
+    ]
+}

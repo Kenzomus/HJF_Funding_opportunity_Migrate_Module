@@ -1,0 +1,51 @@
+[
+    {
+        "rads_id": "1",
+        "name": "Combat Casualty Care ",
+        "description": "Combat Casualty Care Research"
+    },
+    {
+        "rads_id": "2",
+        "name": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research",
+        "description": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research"
+    },
+    {
+        "rads_id": "3",
+        "name": "Clinical and Rehabilitative Medicine",
+        "description": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research"
+    },
+    {
+        "rads_id": "4",
+        "name": "Infectious Disease",
+        "description": "Infectious Disease Research"
+    }
+    ,
+    {
+        "rads_id": "5",
+        "name": "Military Operational Medicine ",
+        "description": "Military Operational Medicine "
+    }
+    ,
+    {
+        "rads_id": "6",
+        "name": "Medical Training and Health Information Sciences",
+        "description": "Medical Training and Health Information Sciences"
+    }
+        ,
+    {
+        "rads_id": "7",
+        "name": "Brain Fitness and Health",
+        "description": ""
+    }
+        ,
+    {
+        "rads_id": "8",
+        "name": "Cancer",
+        "description": ""
+    }    ,
+    {
+        "rads_id": "9",
+        "name": "Medical Chemical Biological Defense",
+        "description": ""
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "type_id": "1",
+        "name": "P01",
+        "description": ""
+    },
+    {
+        "type_id": "2",
+        "name": "R21",
+        "description": ""
+    },
+    {
+        "type_id": "3",
+        "name": "R01",
+        "description": ""
+    },
+    {
+        "type_id": "4",
+        "name": "14-1",
+        "description": ""
+    },
+    {
+        "type_id": "5",
+        "name": "DP1",
+        "description": ""
+    },
+    {
+        "type_id": "6",
+        "name": "ATTDA",
+        "description": ""
+    },
+    {
+        "type_id": "7",
+        "name": "BAA",
+        "description": ""
+    },
+    {
+        "type_id": "8",
+        "name": "BDA",
+        "description": ""
+    },
+    {
+        "type_id": "9",
+        "name": "BRKTHR12",
+        "description": ""
+    },
+    {
+        "type_id": "10",
+        "name": "BRKTHR2_FL12",
+        "description": ""
+    },
+    {
+        "type_id": "11",
+        "name": "BRKTHR2_FL34",
+        "description": ""
+    },
+    {
+        "type_id": "12",
+        "name": "BRKTHR34",
+        "description": ""
+    },
+    {
+        "type_id": "13",
+        "name": "CA",
+        "description": ""
+    },
+    {
+        "type_id": "14",
+        "name": "CARTA",
+        "description": ""
+    },
+    {
+        "type_id": "15",
+        "name": "CDA",
+        "description": ""
+    },
+    {
+        "type_id": "16",
+        "name": "CEA",
+        "description": ""
+    },
+    {
+        "type_id": "17",
+        "name": "CFRA",
+        "description": ""
+    },
+    {
+        "type_id": "18",
+        "name": "CONDEV",
+        "description": ""
+    },
+    {
+        "type_id": "19",
+        "name": "CSRA",
+        "description": ""
+    },
+    {
+        "type_id": "20",
+        "name": "CTA",
+        "description": ""
+    },
+    {
+        "type_id": "21",
+        "name": "CTA-MPIO",
+        "description": ""
+    },
+    {
+        "type_id": "22",
+        "name": "CTDA",
+        "description": ""
+    },
+    {
+        "type_id": "23",
+        "name": "CTLA",
+        "description": ""
+    },
+    {
+        "type_id": "24",
+        "name": "CTR",
+        "description": ""
+    },
+    {
+        "type_id": "25",
+        "name": "CTRA",
+        "description": ""
+    },
+    {
+        "type_id": "26",
+        "name": "Call",
+        "description": ""
+    },
+    {
+        "type_id": "27",
+        "name": "DA",
+        "description": ""
+    },
+    {
+        "type_id": "28",
+        "name": "DRP-STI",
+        "description": ""
+    },
+    {
+        "type_id": "29",
+        "name": "EBOLA",
+        "description": ""
+    },
+    {
+        "type_id": "30",
+        "name": "EHDA",
+        "description": ""
+    },
+    {
+        "type_id": "31",
+        "name": "EOHS",
+        "description": ""
+    },
+    {
+        "type_id": "32",
+        "name": "EOHS2",
+        "description": ""
+    },
+    {
+        "type_id": "33",
+        "name": "FPA",
+        "description": ""
+    },
+    {
+        "type_id": "34",
+        "name": "HAD",
+        "description": ""
+    },
+    {
+        "type_id": "35",
+        "name": "HDRA",
+        "description": ""
+    },
+    {
+        "type_id": "36",
+        "name": "HDTA",
+        "description": ""
+    },
+    {
+        "type_id": "37",
+        "name": "HPT",
+        "description": ""
+    },
+    {
+        "type_id": "38",
+        "name": "IA",
+        "description": ""
+    },
+    {
+        "type_id": "39",
+        "name": "IDA",
+        "description": ""
+    },
+    {
+        "type_id": "40",
+        "name": "IDEA",
+        "description": ""
+    },
+    {
+        "type_id": "41",
+        "name": "IIFRA",
+        "description": ""
+    },
+    {
+        "type_id": "42",
+        "name": "IIPA",
+        "description": ""
+    },
+    {
+        "type_id": "43",
+        "name": "IIRA",
+        "description": ""
+    },
+    {
+        "type_id": "44",
+        "name": "IMPT",
+        "description": ""
+    },
+    {
+        "type_id": "45",
+        "name": "INNOV",
+        "description": ""
+    },
+    {
+        "type_id": "46",
+        "name": "ITEA",
+        "description": ""
+    },
+    {
+        "type_id": "47",
+        "name": "K99/R00",
+        "description": ""
+    },
+    {
+        "type_id": "48",
+        "name": "LCPCRA",
+        "description": ""
+    },
+    {
+        "type_id": "49",
+        "name": "LCTA",
+        "description": ""
+    },
+    {
+        "type_id": "50",
+        "name": "MDVA",
+        "description": ""
+    },
+    {
+        "type_id": "51",
+        "name": "MRFA",
+        "description": ""
+    },
+    {
+        "type_id": "52",
+        "name": "MTA",
+        "description": ""
+    },
+    {
+        "type_id": "53",
+        "name": "NIA",
+        "description": ""
+    },
+    {
+        "type_id": "54",
+        "name": "NSRRA",
+        "description": ""
+    },
+    {
+        "type_id": "55",
+        "name": "OCA",
+        "description": ""
+    },
+    {
+        "type_id": "56",
+        "name": "OCADEAN",
+        "description": ""
+    },
+    {
+        "type_id": "57",
+        "name": "ORA",
+        "description": ""
+    },
+    {
+        "type_id": "58",
+        "name": "P30",
+        "description": ""
+    },
+    {
+        "type_id": "59",
+        "name": "",
+        "description": ""
+    },
+    {
+        "type_id": "60",
+        "name": "P50",
+        "description": ""
+    },
+    {
+        "type_id": "61",
+        "name": "PA",
+        "description": ""
+    },
+    {
+        "type_id": "62",
+        "name": "PBIDA",
+        "description": ""
+    },
+    {
+        "type_id": "63",
+        "name": "PBRA",
+        "description": ""
+    },
+    {
+        "type_id": "64",
+        "name": "PCBRSA",
+        "description": ""
+    },
+    {
+        "type_id": "65",
+        "name": "PCPRNA",
+        "description": ""
+    },
+    {
+        "type_id": "66",
+        "name": "PCTA",
+        "description": ""
+    },
+    {
+        "type_id": "67",
+        "name": "PHRA",
+        "description": ""
+    },
+    {
+        "type_id": "68",
+        "name": "POSTDOC",
+        "description": ""
+    },
+    {
+        "type_id": "69",
+        "name": "POSTDOC2",
+        "description": ""
+    },
+    {
+        "type_id": "70",
+        "name": "PREDOC",
+        "description": ""
+    },
+    {
+        "type_id": "71",
+        "name": "PRTA",
+        "description": ""
+    },
+    {
+        "type_id": "72",
+        "name": "PSIA",
+        "description": ""
+    },
+    {
+        "type_id": "73",
+        "name": "PTA",
+        "description": ""
+    },
+    {
+        "type_id": "74",
+        "name": "QRA",
+        "description": ""
+    },
+    {
+        "type_id": "75",
+        "name": "QUAL",
+        "description": ""
+    },
+    {
+        "type_id": "76",
+        "name": "R03",
+        "description": ""
+    },
+    {
+        "type_id": "77",
+        "name": "R13",
+        "description": ""
+    },
+    {
+        "type_id": "78",
+        "name": "R15",
+        "description": ""
+    },
+    {
+        "type_id": "79",
+        "name": "R24",
+        "description": ""
+    },
+    {
+        "type_id": "80",
+        "name": "R25",
+        "description": ""
+    },
+    {
+        "type_id": "81",
+        "name": "R34",
+        "description": ""
+    },
+    {
+        "type_id": "82",
+        "name": "R56",
+        "description": ""
+    },
+    {
+        "type_id": "83",
+        "name": "RDA",
+        "description": ""
+    },
+    {
+        "type_id": "84",
+        "name": "RTRA",
+        "description": ""
+    },
+    {
+        "type_id": "85",
+        "name": "SIA",
+        "description": ""
+    },
+    {
+        "type_id": "86",
+        "name": "SIDA",
+        "description": ""
+    },
+    {
+        "type_id": "87",
+        "name": "STPA",
+        "description": ""
+    },
+    {
+        "type_id": "88",
+        "name": "TDA",
+        "description": ""
+    },
+    {
+        "type_id": "89",
+        "name": "TIA",
+        "description": ""
+    },
+    {
+        "type_id": "90",
+        "name": "TPA",
+        "description": ""
+    },
+    {
+        "type_id": "91",
+        "name": "TRA",
+        "description": ""
+    },
+    {
+        "type_id": "92",
+        "name": "TRAEHDA",
+        "description": ""
+    },
+    {
+        "type_id": "93",
+        "name": "TRPA",
+        "description": ""
+    },
+    {
+        "type_id": "94",
+        "name": "TTDA",
+        "description": ""
+    },
+    {
+        "type_id": "95",
+        "name": "TVA",
+        "description": ""
+    },
+    {
+        "type_id": "96",
+        "name": "U01",
+        "description": ""
+    },
+    {
+        "type_id": "97",
+        "name": "U19",
+        "description": ""
+    },
+    {
+        "type_id": "98",
+        "name": "UM1",
+        "description": ""
+    }
+    ,
+    {
+        "type_id": "9",
+        "name": "15-1",
+        "description": ""
+    }
+    ,
+    {
+        "type_id": "10",
+        "name": "CPMHRA",
+        "description": ""
+    }
+     ,
+    {
+        "type_id": "11",
+        "name": "ITTPCTA",
+        "description": ""
+    }
+     ,
+    {
+        "type_id": "12",
+        "name": "TPT",
+        "description": ""
+    }
+    ,
+    {
+        "type_id": "13",
+        "name": "Brkthrgh2",
+        "description": ""
+    }
+]

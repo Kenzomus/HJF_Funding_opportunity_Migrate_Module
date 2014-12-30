@@ -1,0 +1,185 @@
+<?php
+//include('scripts/ajax_json.js');
+// implement a migration class
+function funding_migrate_menu(){
+$items["content/funding_migrate"]=array(
+//'page callback' =>'drupal_get_form',
+//'page arguments'=>array('assets_unmanaged_file_form'),
+'page callback' =>'mylookup',
+ //'access arguments' => array('access content'),
+  //'type' => MENU_CALLBACK,
+  //'file' => '/docroot/sites/all/modules/fundingOpportunities/scripts/ajax_json.js',
+  'access callback'=>TRUE,
+
+
+);
+
+return $items;
+
+
+
+}
+
+function assets_unmanaged_file_form($form, $form_state){
+
+
+// required for foems with file inputs.
+
+$form['#attributes']['enctype']='multipart/form-data';
+
+$form['unmanaged_file']=array(
+'#title'=>t('imports funding opportunities json files'),
+'#type'=>'file',
+);
+
+
+	$form['submit'] = array(
+	'#type'=>'submit',
+	'#value'=>'upload file',
+);
+ return $form;
+
+
+
+}
+function assets_unmanaged_file_form_validate($form, $form_state){
+
+$validators= array('json, txt');
+
+$file= file_save_upload('unmanaged_file',$validators, FILE_EXISTS_REPLACE);
+	
+If (isset($file)) {
+// File upload was attempted.
+	$form_state['values']['unmanaged_file'] = $file;
+
+  }
+else {
+form_set_error('unmanaged_file', t('the file could not be uploaded.'));
+
+	}
+
+}
+/**
+* Implements hook_validate()
+*
+*
+*/
+function assets_file_validate($file){
+
+$errors=array();
+
+
+
+
+
+
+}
+
+
+function assets_unmanaged_file_form_submit($form, $form_state){
+
+// check if a file was uploaded.
+
+if ($file= $form_state['values']['unmanaged_file']) {
+
+// create the directory if it does not exist
+
+$directory ='public://assets/unmanaged';
+file_prepare_directory($directory, FILE_CREATE_DIRECTORY);
+// Copy the file over .
+$filename = file_unmanaged_copy($file->uri,  $directory,FILE_EXISTS_REPLACE);
+drupal_set_message(t("Your file has been uploaded!"));
+
+
+
+
+}
+
+}
+
+//function return_drupal_array(){
+   //$mydata = fopen("http://docroot.local:8083/sites/all/modules/fundingopportunities/data/sources/mylist.json", "r");
+//$mydata= file_get_contents("http://docroot.local:8083/sites/all/modules/fundingopportunities/data/sources/funding_jsonlintverified.json"); 
+//if($mydata not null){
+//$json= file_get_contents('data/sources/mylist.json');
+//$My_json = New jsonHandler();
+//$Myresult = $My_json->decode($json);
+//if(!file_get_contents("docroot/sites/all/modules/fundingOpportunities/data/sources/mylist.json:,ok")){
+// die("HJF, we have a stream wrapper problem.");
+//}
+//$mydata = ajax_get_json();
+//if(empty($mydata)){
+//echo ("cannot open the file, it's empty ");
+//}
+//else {
+ // $json_file = json_decode(file_get_contents("data/sources/mylist.json"));
+  //var_dump( $json_file);
+// }
+ 
+//}
+//else {
+//dsm("cannot read the file");
+//{
+
+ 
+ //$result ='[' . str_replace("}{", "},{", $mydata) . ']';
+ //$mydata = str_replace('&quot;', '"', $mydata);
+
+ //echo($mydata);  
+//$json =json_decode(utf8_encode($mydata));
+ //$result=preg_replace('/.+?({.+}).+/','$1',$mydata); 
+
+ //var_dump(json_decode($mydata, true));
+//print_r(json_decode($result, true));
+//var_dump(json_decode($result, true));
+
+//$json=json_decode( preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $mydata), true );
+//$data= json_decode
+//echo $mydata;
+
+//$json = '{"a":1,"b":2,"c":3,"d":4,"e":5}';
+
+//var_dump(json_decode($json,true));
+//var_dump( $Myresult);
+//$Myresult = drupal_json_decode($json_file);
+//echo $Myresult;
+//var_dump($Myresult);
+//var_dump($json);
+//print_r($json_file);
+
+//}
+
+
+function mylookup($title){
+$title= "Medical Training and Health Information Sciences ";
+$type= 'RADS';
+$status= 1;
+$result = db_query("SELECT nid, title FROM {node} Where type=:type and status =:status && title=:title ",
+
+array(':type'=>$type, ':status' =>1,'title'=>$title));
+
+// Result is returned as a iterable object that returns a stdClass object on each iteration
+//if(!empty($result)){
+
+foreach ($result as $record) {
+  // Perform operations on $record->title, etc. here.
+  
+//echo $record->title."<br/>";
+echo "the id for the record ID is :".$record->nid;
+//." ".$record->title."<br/>";
+//return $result ->nid;
+}
+
+//return  "cannot retrieve data from the db";
+ }
+ 
+  // in this example the available data would be mapped to object properties:
+  // $record->nid, $record->title, $record->created
+
+
+  // }
+  // }
+
+
+
+//}

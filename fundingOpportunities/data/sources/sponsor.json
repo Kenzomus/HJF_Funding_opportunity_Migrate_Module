@@ -1,0 +1,88 @@
+[
+    {
+        "sponsor_id": "1",
+        "name": "NIH",
+        "description": ""
+    },
+    {
+        "sponsor_id": "2",
+        "name": "USAMRAA",
+        "description": ""
+    },
+    {
+        "sponsor_id": "3",
+        "name": "Bill and Melinda Gates Foundation",
+        "description": ""
+    },
+    {
+        "sponsor_id": "4",
+        "name": "CBDP",
+        "description": ""
+    },
+    {
+        "sponsor_id": "5",
+        "name": "CDC",
+        "description": ""
+    },
+    {
+        "sponsor_id": "6",
+        "name": "DTRA",
+        "description": ""
+    },
+    {
+        "sponsor_id": "7",
+        "name": "HHS",
+        "description": ""
+    },
+    {
+        "sponsor_id": "8",
+        "name": "NASA",
+        "description": ""
+    },
+    {
+        "sponsor_id": "9",
+        "name": "NFLF",
+        "description": ""
+    },
+    {
+        "sponsor_id": "10",
+        "name": "NSF",
+        "description": ""
+    },
+    {
+        "sponsor_id": "11",
+        "name": "Tri-Service Nursing Program",
+        "description": ""
+    },
+    {
+        "sponsor_id": "12",
+        "name": "USAID",
+        "description": ""
+    },
+    {
+        "sponsor_id": "13",
+        "name": "CDMRP",
+        "description": ""
+    },
+    {
+        "sponsor_id": "14",
+        "name": "DMRDP",
+        "description": ""
+    },
+    {
+        "sponsor_id": "15",
+        "name": "Welcome Trust",
+        "description": ""
+    },
+    {
+        "sponsor_id": "16",
+        "name": "AC STI CRC",
+        "description": ""
+    }
+    ,
+    {
+        "sponsor_id": "17",
+        "name": "test",
+        "description": ""
+    }
+]

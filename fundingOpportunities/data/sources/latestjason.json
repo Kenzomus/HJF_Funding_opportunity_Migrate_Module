@@ -1,0 +1,867 @@
+[
+    {   "pgid":"1",
+        "title": "1 source_program_ID Project Grant (1)",
+        "number": "PAR-14-183",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-14-183.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "1",
+        "type_id": "1",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/25",
+        "source_RADS_ID":"7"
+        
+    },
+    {   "pgid":"2",
+        "title": "Exploratory Clinical Trial Grants in Arthritis and Musculoskeletal and Skin Diseases (R21)",
+        "number": "PAR-14-192",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-14-192.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "2",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": "1 "
+        
+    },
+    {	"pgid":"3",
+        "title": "Research in latent tuberculosis infection (LTBI) in the setting of HIV Co-Infection (3)",
+        "number": "PAR-13-061",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-13-061.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "ç",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/5",
+        "source_RADS_ID":"4 "
+        
+    },
+    { 	"pgid":"4",
+        "title": "U.S. Army Medical Research and Materiel Command Broad Agency Announcement for Extramural Medical Research: Military 4s Research source_program_ID",
+        "number": "W81XWH-4-9",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=267548",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "4",
+        "type_id": "9",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/9/30",
+        "source_RADS_ID":"4 "
+        
+    },
+    {   "pgid":"5",
+        "title": "5 Avant-Garde Award source_program_ID for HIV/AIDS and Drug Use Research (5)",
+        "number": "RFA-DA-15-004",
+        "url": "http://grants.1.gov/grants/guide/rfa-files/RFA-DA-15-004.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "5",
+        "type_id": "5",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2016/7/30",
+        "source_RADS_ID":"4 "
+        
+    },
+    {	"pgid":"6",
+        "title": "Improving Delivery of HIV Prevention and Treatment through Implementation Science and Translational Research (R21)",
+        "number": "PA-14-129",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-129.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 6",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID":   "4 "
+        
+    },
+    {	"pgid":"7",
+        "title": "Accelerating Improvements in the HIV Care Continuum (3)",
+        "number": "PA-14-132",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-132.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 6",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/5",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"8",
+        "title": "Accelerating Improvements in the HIV Care Continuum (R21)",
+        "number": "PA-14-130",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-130.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 6",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"9",
+        "title": "Improving Delivery of HIV Prevention and Treatment through Implementation Science and Translational Research (3)",
+        "number": "PA-14-131",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-131.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 6",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"10",
+        "title": "3 Investigator Initiated source_program_ID Project Applications (1)",
+        "number": "PAR-13-254",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-13-254.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "1",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/25",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"11",
+        "title": "NK Cells to Induce Immunological Memory to Prevent HIV Infection (3)",
+        "number": "PA-14-217",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-217.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"12",
+        "title": "B Cell Help Immunology source_program_ID for AIDS Vaccine Strategies (3)",
+        "number": "PA-14-216",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-216.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"13",
+        "title": "Fc Receptor (FcR) and Antibody Effector Function in HIV Vaccine Discovery (3)",
+        "number": "PA-14-218",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-218.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"14",
+        "title": "HIV Vaccine Vector-Host Interactions: Understanding the Biology and Immunology (3)",
+        "number": "PA-14-215",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-215.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"15",
+        "title": "Studies of HIV in Digestive Diseases Limited to Gastrointestinal Mucosal Immunology and Liver Diseases (3)",
+        "number": "RFA-DK-14-019 ",
+        "url": "http://grants.1.gov/grants/guide/rfa-files/RFA-DK-14-019.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "34",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {"pgid":"16",
+        "title": "Vascular Dysfunction in the Pathogenesis of Severe Malaria (3)",
+        "number": "RFA-HL-15-023 ",
+        "url": "http://grants.1.gov/grants/guide/rfa-files/RFA-HL-15-023.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "7",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/5",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"17",
+        "title": "Eradication of HIV-1 from Central Nervous System Reservoirs",
+        "number": "PA-14-095",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-095.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 5, 6, 1",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"18",
+        "title": "HIV Infection of the Central Nervous System",
+        "number": "PA-14-094",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-094.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "31, 3, 5, 6, 1",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"19",
+        "title": "Clinical Studies of Mental Illness Not Involving Treatment Development, Efficacy, or Effectiveness Trials",
+        "number": "PAR-14-165",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-14-165.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "6",
+        "type_id": "3",
+        "preproposal_deadline": "2015/1/6",
+        "proposal_deadline": "2015/2/5",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"20",
+        "title": "1 Small Research Grant source_program_ID",
+        "number": "PA-13-304",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-13-304.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "29, 30, 31, 3, 32, 25, 5, 35, 6, 1",
+        "type_id": "76",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"21",
+        "title": "1 Exploratory/Developmental Research Grant source_program_ID",
+        "number": "PA-13-303",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-13-303.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"22",
+        "title": "HIV Vaccine Vector-Host Interactions: Understanding the Biology and Immunology",
+        "number": "PA-14-214",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-214.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"23",
+        "title": "Development and Testing of Novel Interventions to Improve HIV Prevention, Care, and source_program_ID Implementation",
+        "number": "PA-12-231",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-12-231.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "5",
+        "type_id": "81",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"24",
+        "title": "Clinical Trial Planning Grant for Interventions and Services to Improve Treatment and Prevention of HIV/AIDS",
+        "number": "PA-14-179",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-14-179.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 6",
+        "type_id": "81",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"25",
+        "title": "Pre-Symptomatic Profiles of Chronic Lung Disease(s) from Retrospective Cohorts",
+        "number": "RFA-HL-15-025",
+        "url": "http://grants.1.gov/grants/guide/rfa-files/RFA-HL-15-025.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "7",
+        "type_id": "2",
+        "preproposal_deadline": "2014/12/21",
+        "proposal_deadline": " ",
+        "source_RADS_ID": [
+            "5"
+        ]
+    },
+    {	"pgid":"26",
+        "title": "Multidisciplinary Studies of HIV/AIDS and Aging",
+        "number": "PAR-12-175",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-175.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "24, 17, 7, 30, 31, 3, 2, 25, 5, 34, 6, 1,48",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/5",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"27",
+        "title": "Multidisciplinary Studies of HIV/AIDS and Aging",
+        "number": "PAR-12-174",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-174.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "24, 17, 7, 30, 31, 3, 2, 25, 5, 34, 6, 1,48",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"28",
+        "title": "Multidisciplinary Studies of HIV/AIDS and Aging",
+        "number": "PAR-12-176",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-176.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "24, 17, 7, 30, 31, 3, 2, 25, 5, 34, 6, 1,48",
+        "type_id": "76",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"29",
+        "title": "Drug Abuse Aspects of HIV/AIDS",
+        "number": "PA-12-293",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-12-293.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "5",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"30",
+        "title": "Drug Abuse Aspects of HIV/AIDS",
+        "number": "PA-12-294",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-12-294.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "5",
+        "type_id": "76",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"31",
+        "title": "Drug Abuse Aspects of HIV/AIDS",
+        "number": "PA-12-295",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PA-12-295.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "5",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"32",
+        "title": "U.S. Army Medical Research and Materiel Command Broad Agency Announcement for Extramural Medical Research: 3 Research source_program_ID",
+        "number": "W81XWH-4-9",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=267548",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "4",
+        "type_id": "9",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/9/30",
+        "source_RADS_ID": [
+            "3 "
+        ]
+    },
+    {	"pgid":"33",
+        "title": "U.S. Army Medical Research and Materiel Command Broad Agency Announcement for Extramural Medical Research: Radiation Health Effects Research source_program_ID",
+        "number": "W81XWH-4-9",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=267548",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "4",
+        "type_id": "9",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/9/30",
+        "source_RADS_ID": [
+            "9"
+        ]
+    },
+    {	"pgid":"34",
+        "title": "U.S. Army Medical Research and Materiel Command Broad Agency Announcement for Extramural Medical Research: Medical Simulation and Information Sciences Research source_program_ID",
+        "number": "W81XWH-4-9",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=267548",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "4",
+        "type_id": "9",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/9/30",
+        "source_RADS_ID": [
+            "6"
+        ]
+    },
+    {	"pgid":"35",
+        "title": "U.S. Army Medical Research and Materiel Command Broad Agency Announcement for Extramural Medical Research: 5 Research source_program_ID",
+        "number": "W81XWH-4-9",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=267548",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "4",
+        "type_id": "9",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/9/30",
+        "source_RADS_ID": [
+            "5"
+        ]
+    },
+    {	"pgid":"36",
+        "title": "U.S. Army Medical Research and Materiel Command Broad Agency Announcement for Extramural Medical Research: 1 Research source_program_ID",
+        "number": "W81XWH-4-9",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=267548",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "4",
+        "type_id": "9",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/9/30",
+        "source_RADS_ID": [
+            "1 "
+        ]
+    },
+    {	"pgid":"37",
+        "title": "U.S. Army Medical Research and Materiel Command Broad Agency Announcement for Extramural Medical Research: Medical Biological Defense Research source_program_ID",
+        "number": "W81XWH-4-9",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=267548",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "4",
+        "type_id": "9",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/9/30",
+        "source_RADS_ID": [
+            "9"
+        ]
+    },
+    {	"pgid":"38",
+        "title": "U.S. Army Medical Research and Materiel Command Broad Agency Announcement for Extramural Medical Research: Medical Chemical Defense Research source_program_ID",
+        "number": "W81XWH-4-9",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=267548",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "4",
+        "type_id": "9",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/9/30",
+        "source_RADS_ID": [
+            "9"
+        ]
+    },
+    {	"pgid":"39",
+        "title": "DoD PH/TBI Community Partners in Mental Health Research Award",
+        "number": "W81XWH-14-PHTBIRP-10",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=265968",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "10",
+        "preproposal_deadline": "2014/11/6",
+        "proposal_deadline": "2015/1/23",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"40",
+        "title": "DoD PH/TBI Investigational Treatments for TBI and PTSD Clinical Trial Award",
+        "number": "W81XWH-14-PHTBIRP-11",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=265969",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "11",
+        "preproposal_deadline": "2014/11/6",
+        "proposal_deadline": "2015/1/23",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"41",
+        "title": "Psychological Health/Traumatic Brain Injury (PH/TBI) Research source_program_ID: Psychological Health Research Award (PHRA)",
+        "number": "W81XWH-14-PHTBI-PHRA",
+        "url": "http://cdmrp.army.mil/funding/phtbi.shtml",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "67",
+        "preproposal_deadline": "2015/9/4",
+        "proposal_deadline": "2015/11/13",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"42",
+        "title": "DoD Breast 8 Breakthrough Award Levels 1 and 2",
+        "number": "W81XWH-14-BCRP-BREAKTHROUGH2_FL12",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=263931",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "Brkthrgh2",
+        "preproposal_deadline": "2014/12/3",
+        "proposal_deadline": "2014/12/17",
+        "source_RADS_ID": [
+            "8"
+        ]
+    },
+    {	"pgid":"43",
+        "title": "DoD Breast 8 Breakthrough Award Levels 3 and 4",
+        "number": "W81XWH-14-BCRP-BREAKTHROUGH2_FL34",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=263933",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "13",
+        "preproposal_deadline": "2014/10/22",
+        "proposal_deadline": "2015/1/29",
+        "source_RADS_ID": [
+            "8"
+        ]
+    },
+    {	"pgid":"44",
+        "title": "DoD Neurosensory and Rehabilitation Research Award",
+        "number": "W81XWH-14-CRMRP-NSRRA ",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=269497",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "NSRRA",
+        "preproposal_deadline": "2014/12/10",
+        "proposal_deadline": "2015/2/11",
+        "source_RADS_ID": [
+            "3 "
+        ]
+    },
+    {	"pgid":"45",
+        "title": "Gulf War Illness Innovative Treatment Evaluation Award",
+        "number": "W81XWH-14-GWIRP-ITEA2",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=263988",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "ITEA2",
+        "preproposal_deadline": "2014/10/28",
+        "proposal_deadline": "2015/1/27",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"46",
+        "title": "Gulf War Illness Innovative Treatment Evaluation Award",
+        "number": "W81XWH-14-GWIRP-ITEA2",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=263988",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "ITEA2",
+        "preproposal_deadline": "2014/10/28",
+        "proposal_deadline": "2015/1/27",
+        "source_RADS_ID": [
+            "3 "
+        ]
+    },
+    {"pgid":"47",
+        "title": "Gulf War Illness Innovative Treatment Evaluation Award",
+        "number": "W81XWH-14-GWIRP-ITEA2",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=263988",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "ITEA2",
+        "preproposal_deadline": "2014/10/28",
+        "proposal_deadline": "2015/1/27",
+        "source_RADS_ID": [
+            "5"
+        ]
+    },
+    {	"pgid":"48",
+        "title": "DoD Orthotics and Prosthetics Outcomes Research Award",
+        "number": "W81XWH-14-OPORP-OPORA",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=268008",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "OPORA",
+        "preproposal_deadline": "2014/11/12",
+        "proposal_deadline": "2015/1/16",
+        "source_RADS_ID": [
+            "3 "
+        ]
+    },
+    {	"pgid":"49",
+        "title": "DoD Peer Reviewed Alzheimer's Quality of Life Research Award",
+        "number": "W81XWH-14-PRARP-QUAL",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=264758",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "QUAL",
+        "preproposal_deadline": "2014/10/16",
+        "proposal_deadline": "2015/1/14",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"50",
+        "title": "DoD Peer Reviewed Alzheimer's Convergence Science Research Award",
+        "number": "W81XWH-14-PRARP-CSRA",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=264759",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "19",
+        "preproposal_deadline": "2014/10/16",
+        "proposal_deadline": "2015/1/14",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"51",
+        "title": "DoD Peer Reviewed Alzheimer's Military Risk Factors Research Award",
+        "number": "W81XWH-14-PRARP-MRFA",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=264760",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "49",
+        "type_id": "51",
+        "preproposal_deadline": "2014/10/16",
+        "proposal_deadline": "2015/1/14",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"52",
+        "title": "Multidisciplinary Studies of HIV/AIDS and Aging",
+        "number": "PAR-12-176",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-176.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "24, 17, 7, 30, 31, 3, 2, 25, 5, 34, 6, 1,48",
+        "type_id": "76",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"53",
+        "title": "Multidisciplinary Studies of HIV/AIDS and Aging",
+        "number": "PAR-12-175",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-175.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "24, 17, 7, 30, 31, 3, 2, 25, 5, 34, 6, 1,48",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/5",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"54",
+        "title": "Multidisciplinary Studies of HIV/AIDS and Aging",
+        "number": "PAR-12-174",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-174.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "24, 17, 7, 30, 31, 3, 2, 25, 5, 34, 6, 1,48",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/16",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"55",
+        "title": "Cohort Studies of HIV/AIDS and Substance Use",
+        "number": "PAR-12-222",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-222.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "5",
+        "type_id": "96",
+        "preproposal_deadline": "2014/11/11",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"56",
+        "title": "Ethical Issues in Research on HIV/AIDS and its Co-morbidities",
+        "number": "PAR-12-244",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-244.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "17, 3, 25, 5, 6",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {"pgid":"57",
+        "title": "Ethical Issues in Research on HIV/AIDS and its Co-morbidities",
+        "number": "PAR-12-243",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-12-243.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "17, 3, 25, 5, 6",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"58",
+        "title": "Methods for Prevention Packages source_program_ID III (MP3 III)",
+        "number": "PAR-13-322",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-13-322.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 6",
+        "type_id": "3",
+        "preproposal_deadline": "2014/12/8",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"59",
+        "title": "Increased Knowledge and Innovative Strategies to Reduce HIV IncidenceiKnow Projects",
+        "number": "PAR-13-323",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-13-323.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 5, 6",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"60",
+        "title": "Novel NeuroAIDS Therapeutics: Integrated Preclinical/Clinical source_program_ID",
+        "number": "PAR-13-267",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-13-267.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "6",
+        "type_id": "1",
+        "preproposal_deadline": "2014/12/7",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {"pgid":"61",
+        "title": "Novel NeuroAIDS Therapeutics: Integrated Preclinical/Clinical source_program_ID",
+        "number": "PAR-13-267",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-13-267.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "6",
+        "type_id": "1",
+        "preproposal_deadline": "2014/12/25",
+        "proposal_deadline": "2015/1/25",
+        "source_RADS_ID": [
+            "7"
+        ]
+    },
+    {	"pgid":"62",
+        "title": "Role of the Microbiome in HIV-1 Vaccine Responses",
+        "number": "PAR-14-317",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-14-317.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"63",
+        "title": "Role of the Microbiome in HIV-1 Vaccine Responses",
+        "number": "PAR-14-318",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-14-318.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "2",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"64",
+        "title": "Sustained Release of Antivirals for Treatment or Prevention of HIV (SRATP)",
+        "number": "PAR-13-349",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAR-13-349.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3, 25, 6",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/1/7",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"65",
+        "title": "Elucidating HIV and HIV-treatment Associated Metabolic/Endocrine Dysfunction - See more at: http://grants.1.gov/grants/guide/rfa-files/RFA-DK-14-023.html#sthash.tulygBUy.dpuf",
+        "number": "RFA-DK-14-023",
+        "url": "http://grants.1.gov/grants/guide/rfa-files/RFA-DK-14-023.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "34",
+        "type_id": "3",
+        "preproposal_deadline": "2015/3/9",
+        "proposal_deadline": "2015/4/9",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"66",
+        "title": "High Priority Immunology Grants",
+        "number": "PAS-15-055",
+        "url": "http://grants.1.gov/grants/guide/pa-files/PAS-15-055.html",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "3",
+        "type_id": "3",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/2/5",
+        "source_RADS_ID": [
+            "4 "
+        ]
+    },
+    {	"pgid":"67",
+        "title": "DoD FY14 Defense Medical Research and Development source_program_ID Team Performance Training",
+        "number": "W81XWH-14-DMRDP-JPC1-12",
+        "url": "http://www.grants.gov/web/grants/view-opportunity.html?oppId=270153",
+        "source_sponsor_ID": "2",
+        "source_program_ID": "47",
+        "type_id": "12",
+        "preproposal_deadline": "2015/1/22",
+        "proposal_deadline": "2015/4/9",
+        "source_RADS_ID": [
+            "6"
+        ]
+    }
+]

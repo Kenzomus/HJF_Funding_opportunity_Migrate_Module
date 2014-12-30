@@ -1,0 +1,20 @@
+name =fundingOpportunities
+description = "get data in json file from a filemaker database into drupal node funding_opportunities"
+core= 7.x
+
+package : Funding Opportunities Migration
+
+dependencies[] = migrate
+
+files[]= fundingOpportunities.module
+files[] = includes/fundingOpportunities.migrate.inc
+files[] = includes/Mybase.inc
+files[] = includes/fundingBase.inc
+files[] = includes/opportunities.inc
+files[] = includes/sponsorsMigration.inc
+files[] = includes/programMigration.inc
+files[] = includes/typeMigration.inc
+files[] = includes/radsMigration.inc
+files[] = includes/json.inc
+files[] = includes/jsonHandler.inc
+files[] = includes/funding_opportunity_lookUp.inc

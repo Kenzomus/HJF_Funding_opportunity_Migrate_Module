@@ -1,0 +1,282 @@
+[
+    {
+        "pgid": "Combat Casualty Care",
+        "title": "NINDS Program Project Grant (P01)",
+        "number": "PAR-14-183",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-14-183.html",
+        "source_sponsor_ID": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research",
+        "program": "Combat Casualty Care",
+        "type": "Combat Casualty Care",
+        "preproposal_deadline": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research/Combat Casualty Care/2015",
+        "proposal_deadline": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research/Combat Casualty Care/2015",
+        "source_RADS_ID": "Medical Training and Health Information Sciences"
+    },
+    {
+        "pgid": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research",
+        "title": "Exploratory Clinical Trial Grants in Arthritis and Musculoskeletal and Skin Diseases (R21)",
+        "number": "PAR-14-192",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-14-192.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "program": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research",
+        "type": "Clinical and Rehabilitative Medicine",
+        "preproposal_deadline": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research/13/2015",
+        "proposal_deadline": "Clinical and Rehabilitative Medicine/Combat Casualty Care/2015",
+        "source_RADS_ID": "Clinical and Rehabilitative Medicine"
+    },
+    {
+        "pgid": "Clinical and Rehabilitative Medicine",
+        "title": "Research in latent tuberculosis infection (LTBI) in the setting of HIV Co-Infection (R01) ",
+        "number": "PAR-13-061",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-13-061.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "program": "Clinical and Rehabilitative Medicine",
+        "type": "Clinical and Rehabilitative Medicine",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research"
+    },
+    {
+        "pgid": "Infectious Disease",
+        "title": "USAMRMC Broad Agency Announcement (BAA)",
+        "number": "W81XWH-BAA-15-Combat Casualty Care",
+        "url": "https://www.usamraa.army.mil/pages/Baa_Forms/index.cfm?",
+        "source_sponsor_ID": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research",
+        "program": "5",
+        "type": "Infectious Disease",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": "Combat Casualty Care"
+    },
+    {
+        "pgid": "5",
+        "title": "NIDA Avant-Garde Award Program for HIV/AIDS and Drug Use Research (DP1)",
+        "number": "RFA-DA-15-004",
+        "url": "http://grants.nih.gov/grants/guide/rfa-files/RFA-DA-15-004.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "program": "Medical Training and Health Information Sciences",
+        "type": "5",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Infectious Disease"
+        ]
+    },
+    {
+        "pgid": "Medical Training and Health Information Sciences",
+        "title": "HIV Vaccine Research and Design (HIVRAD) Program (P01)",
+        "number": "PAR-14-206",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-14-206.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "program": "Clinical and Rehabilitative Medicine",
+        "type": "Combat Casualty Care",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Clinical and Rehabilitative Medicine"
+        ]
+    },
+    {
+        "pgid": "7",
+        "title": "Improving Delivery of HIV Prevention and Treatment through Implementation Science and Translational Research (R21)",
+        "number": "PA-14-129",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-129.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "program": [
+            "Medical Training and Health Information Sciences"
+        ],
+        "type": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Clinical and Rehabilitative Medicine"
+        ]
+    },
+    {
+        "pgid": "8",
+        "title": "Accelerating Improvements in the HIV Care Continuum (R01)",
+        "number": "PA-14-132",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-132.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "source_program_ID": [
+            "Combat Casualty Care"
+        ],
+        "type": "Clinical and Rehabilitative Medicine",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Traumatic Brain Injury / Post Traumatic Brain Disorder Research"
+        ]
+    },
+    {
+        "pgid": "9",
+        "title": "Accelerating Improvements in the HIV Care Continuum (R21)",
+        "number": "PA-14-130",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-130.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "source_program_ID": [
+            "Clinical and Rehabilitative Medicine"
+        ],
+        "type": "Traumatic Brain Injury / Post Traumatic Brain Disorder Research",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Traumatic Brain Injury / Post Traumatic Brain Disorder Research"
+        ]
+    },
+    {
+        "pgid": "10",
+        "title": "Improving Delivery of HIV Prevention and Treatment through Implementation Science and Translational Research (R01)",
+        "number": "PA-14-131",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-131.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "source_program_ID": [
+            "5"
+        ],
+        "type": "Clinical and Rehabilitative Medicine",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Medical Training and Health Information Sciences"
+        ]
+    },
+    {
+        "pgid": "11",
+        "title": "NIAID Investigator Initiated Program Project Applications (P01)",
+        "number": "PAR-13-254",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PAR-13-254.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "source_program_ID": "Clinical and Rehabilitative Medicine",
+        "type": "Combat Casualty Care",
+        "preproposal_deadline": "2016/Medical Training and Health Information Sciences/15",
+        "proposal_deadline": "",
+        "source_RADS_IDS": [
+            "Combat Casualty Care"
+        ]
+    },
+    {
+        "pgid": "12",
+        "title": "NK Cells to Induce Immunological Memory to Prevent HIV Infection (R01)",
+        "number": "PA-14-217",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-217.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "source_program_ID": "Clinical and Rehabilitative Medicine",
+        "type": "Combat Casualty Care",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Traumatic Brain Injury / Post Traumatic Brain Disorder Research"
+        ]
+    },
+    {
+        "pgid": "13",
+        "title": "B Cell Help Immunology Program for AIDS Vaccine Strategies (R01)",
+        "number": "PA-14-216",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-216.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "source_program_ID": "Clinical and Rehabilitative Medicine",
+        "type": "Clinical and Rehabilitative Medicine",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Clinical and Rehabilitative Medicine"
+        ]
+    },
+    {
+        "pgid": "14",
+        "title": "Fc Receptor (FcR) and Antibody Effector Function in HIV Vaccine Discovery (R01)",
+        "number": "PA-14-218",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-218.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "source_program_ID": "Clinical and Rehabilitative Medicine",
+        "type": "Clinical and Rehabilitative Medicine",
+        "preproposal_deadline": "",
+        "proposal_deadline": "",
+        "source_RADS_ID": [
+            "Medical Training and Health Information Sciences"
+        ]
+    },
+    {
+        "pgid": "15",
+        "title": "HIV Vaccine Vector-Host Interactions: Understanding the Biology and Immunology (R01)",
+        "number": "PA-14-215",
+        "url": "http://grants.nih.gov/grants/guide/pa-files/PA-14-215.html",
+        "source_sponsor_ID": "Combat Casualty Care",
+        "source_program_ID": "Clinical and Rehabilitative Medicine",
+        "type": "Clinical and Rehabilitative Medicine",
+        "preproposal_deadline": "2016/Medical Training and Health Information Sciences/15",
+        "proposal_deadline": "2016/Medical Training and Health Information Sciences/15",
+        "source_RADS_ID": [
+            "Traumatic Brain Injury / Post Traumatic Brain Disorder Research"
+        ]
+    },
+    {
+        "pgid": "16",
+        "title": "Vascular Dysfunction in the Pathogenesis of Severe Malaria (R01)",
+        "number": "RFA-HL-15-023 ",
+        "url": "http://grants.Combat Casualty Care.gov/grants/guide/rfa-files/RFA-HL-15-023.html",
+        "sponsor": "Combat Casualty Care",
+        "program": "NHLBI",
+        "type": "R01",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/Traumatic Brain Injury / Post Traumatic Brain Disorder Research/5",
+        "RADS": [
+            "Infectious Disease "
+        ]
+    },
+    {
+        "pgid": "17",
+        "title": "Eradication of HIV-Combat Casualty Care from Central Nervous System Reservoirs",
+        "number": "PA-14-095",
+        "url": "http://grants.Combat Casualty Care.gov/grants/guide/pa-files/PA-14-095.html",
+        "sponsor": "Combat Casualty Care",
+        "program": "NIAID, NIDA, NIMH, NINDS",
+        "type": "R01",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/Combat Casualty Care/7",
+        "RADS": [
+            "Infectious Disease "
+        ]
+    },
+    {
+        "pgid": "18",
+        "title": "HIV Infection of the Central Nervous System",
+        "number": "PA-14-094",
+        "url": "http://grants.Combat Casualty Care.gov/grants/guide/pa-files/PA-14-094.html",
+        "sponsor": "Combat Casualty Care",
+        "program": "NIAAA, NIAID, NIDA, NIMH, NINDS",
+        "type": "R01",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/Combat Casualty Care/7",
+        "RADS": [
+            "Infectious Disease "
+        ]
+    },
+    {
+        "pgid": "19",
+        "title": "Clinical Studies of Mental Illness Not Involving Treatment Development, Efficacy, or Effectiveness Trials",
+        "number": "PAR-14-165",
+        "url": "http://grants.Combat Casualty Care.gov/grants/guide/pa-files/PAR-14-165.html",
+        "sponsor": "Combat Casualty Care",
+        "program": "NIMH",
+        "type": "R01",
+        "preproposal_deadline": "2015/Combat Casualty Care/Medical Training and Health Information Sciences",
+        "proposal_deadline": "2015/Traumatic Brain Injury / Post Traumatic Brain Disorder Research/5",
+        "RADS": [
+            "7"
+        ]
+    },
+    {
+        "pgid": "20",
+        "title": "Combat Casualty Care Small Research Grant Program",
+        "number": "PA-13-304",
+        "url": "http://grants.Combat Casualty Care.gov/grants/guide/pa-files/PA-13-304.html",
+        "sponsor": "Combat Casualty Care",
+        "program": "NHGRI, NIA, NIAAA, NIAID, NIBIB, NICHD, NIDA, NIEHS, NIMH, NINDS",
+        "type": "R03",
+        "preproposal_deadline": "",
+        "proposal_deadline": "2015/Traumatic Brain Injury / Post Traumatic Brain Disorder Research/16",
+        "RADS": [
+            "Infectious Disease "
+        ]
+    }
+]

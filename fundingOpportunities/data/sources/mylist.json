@@ -1,0 +1,56 @@
+[
+    {
+        "pgid": "3",
+        "source_sponsor_ID": 4,
+        "source_program_ID": 22,
+        "source_type_ID": 1,
+        "preproposal_deadline": "12/04/14",
+        "proposal_deadline": "12/04/14",
+        "source_RADS_ID": "1"
+    },
+    {
+        "pgid": "2",
+        "source_sponsor_ID": "3",
+        "source_program_ID": "2",
+        "source_type_ID": "1",
+        "preproposal_deadline": "11/07/14",
+        "proposal_deadline": "02/02/14",
+        "source_RADS_ID": "4"
+    },
+    {
+        "pgid": "3",
+        "source_sponsor_ID": "3",
+        "source_program_ID": "2",
+        "source_type_ID": "1",
+        "preproposal_deadline": "11/07/14",
+        "proposal_deadline": "02/02/14",
+        "source_RADS_ID": "4"
+    },
+    {
+        "pgid": "4",
+        "source_sponsor_ID": "3",
+        "source_program_ID": "2",
+        "source_type_ID": "1",
+        "preproposal_deadline": "11/07/14",
+        "proposal_deadline": "02/02/14",
+        "source_RADS_ID": "4"
+    },
+    {
+        "pgid": "5",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "2",
+        "source_type_ID": "1",
+        "preproposal_deadline": "11/07/14",
+        "proposal_deadline": "02/02/14",
+        "source_RADS_ID": "4"
+    },
+    {
+        "pgid": "6",
+        "source_sponsor_ID": "1",
+        "source_program_ID": "1",
+        "source_type_ID": "1",
+        "preproposal_deadline": "11/07/14",
+        "proposal_deadline": "02/02/14",
+        "source_RADS_ID": "4"
+    }
+]
