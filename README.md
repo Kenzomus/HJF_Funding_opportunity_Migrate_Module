@@ -11,7 +11,7 @@ I. Installation
  
 
 
-2.1.Enable it using drupal GUi , go to module and install it. It depends to Migrate module , in case you don't have it has to be download as well on drupal.org (https://www.drupal.org/project/migrate)
+2.1.Enable it using drupal GUi , go to module and install it. It depends to Migrate module , in case you don't have it has to be downloaded and enabled as well on drupal.org (https://www.drupal.org/project/migrate)
 
 2.2 You can use drush en fundingopportunities  to enable it and drush will automatically download the depedent module (Migrate if not already installed)
 
@@ -29,9 +29,9 @@ III. How to use it
 	To learn more about the implementation of migrate you can to https://www.drupal.org/node/415260
 
 	4.1 If all sets , go to the drupal site /Content/Migrate you should see all the migrations implemented by the classes mentionned above.
-	You can run the Migrate UI to run the Migration , rollback ...
+	You can run the Migrate UI to start importing  , rollback ...
 
-	4.2 you can use drush ms to see all the Migration , then drush mi (Name of the migration you want to run) or drush mr (Name of the migration you want to run )to rollback . 
+	4.2 you can use drush ms to see all the Migration , then drush mi (Name of the migration you want to run) or drush mr (Name of the migration you want to run ) to rollback . 
 	For more drush command 
 	check drush help --filter="migrate"
 	
