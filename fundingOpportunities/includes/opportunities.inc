@@ -21,13 +21,9 @@
 	'proposal_deadline'=>'proposal_deadline',
 	'source_RADS_ID'=>'RADS',
     );
-    //$json_file = fopen("\\data\\sources\\mylist.json", "r");
-    //file_get_contents('data/sources/mylist.json');
-    //$mydata= file_get_contents("http://docroot.local:8083/sites/all/modules/fundingopportunities/data/sources/mylist.json"); 
-    //$json=json_decode( preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $mydata), true );
     
-    $mjason = "/Users/indiaye/bkup_oct_17_14/hjf/docroot/sites/all/modules/fundingOpportunities/data/sources/latestjason.json";
-    
+    //$mjason = "/Users/indiaye/bkup_oct_17_14/hjf/docroot/sites/all/modules/fundingOpportunities/data/sources/latestjason.json";
+    $mjason=drupal_get_path('module', 'fundingOpportunities').'/data/sources/latestjason.json';
  $this->source = new MigrateSourceJSON( $mjason, 'pgid', $fields);
 
  $this->destination = new MigrateDestinationNode('funding_opportunity');
