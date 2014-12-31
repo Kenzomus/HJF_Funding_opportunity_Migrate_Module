@@ -78,6 +78,7 @@ protected function createStub(Migration $migration, array $source_id) {
       return FALSE;
     }
   }
+  
 function mylookup(){
 $type= 'RADS';
 $status= 1;
@@ -92,7 +93,7 @@ foreach ($result as $record) {
   // Perform operations on $record->title, etc. here.
   
 //echo $record->title."<br/>";
-return $record->nid."<br/>";
+return $record->nid;
 //return $result;
 }
 

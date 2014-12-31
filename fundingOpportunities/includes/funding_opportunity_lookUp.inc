@@ -49,7 +49,8 @@ $this->addFieldMapping('title', 'title');
 $this->addFieldMapping('field_opportunity_number', 'number');
 $this->addFieldMapping('field_related_url', 'url');
  $this->addFieldMapping('field_relate_sponsor', 'source_sponsor_ID')
- 				->sourceMigration('sponsorMigration');
+ 				->sourceMigration('sponsorMigration')
+ 				;
  $this->addFieldMapping('field_related_program', 'source_program_ID')
  			->separator(',')
  			->sourceMigration('programMigration');
@@ -60,13 +61,14 @@ $this->addFieldMapping('field_related_url', 'url');
  $this->addFieldMapping('field_rads', 'source_RADS_ID')
  						//->callbacks'(mylookup(source_RADS_ID)')
  							//->sourceMigration('radsMigration')
- 								->separator(',')
- 			->callbacks($this, 'mylookup');
+ 								->separator(',');
+ 			  		//->callbacks(array($this, 'mylookup'));
 
 
 
 
 }
+
 protected function createStub(Migration $migration, array $source_id) {
    $node = new stdClass();
     $node->title = t('Stub for @id', array('@id' => $source_id[0]));
@@ -83,44 +85,59 @@ protected function createStub(Migration $migration, array $source_id) {
     }
   }
   
-function mylookup($row){
-
-
-$type= 'RADS';
+  
+// create a function that take the nodetype as an argument and the title to return the node id 
+function mylookup($node_type,$title){
+//$title= "Combat Casualty Care ";
+//$type= 'RADS';
 $status= 1;
-if(iset($row->title)){
-$title = $row->title;
-$result = db_query("SELECT nid,created FROM {node} Where type=:type and status =:status and title=:title ", array(':type'=>$type, ':status' =>1,':title'=>$title));
+$result = db_query("SELECT nid, title FROM {node} Where type=:type and status =:status && title=:title ",
 
- //Result is returned as a iterable object that returns a stdClass object on each iteration
+array(':type'=>$type, ':status' =>1,'title'=>$title));
+
+// Result is returned as a iterable object that returns a stdClass object on each iteration
 //if(!empty($result)){
-$nid[]="";
 
 foreach ($result as $record) {
   // Perform operations on $record->title, etc. here.
-  $nid[]= $record->nid;
+  
+//echo $record->title."<br/>";
+//echo "the id for the record ID is :".$record->nid;
+//." ".$record->title."<br/>";
 
-  }
-  }
-  return $nid;
 }
-}
+return $record->nid;
+
+//return  "cannot retrieve data from the db";
+ }
+ 
+
+
+
 function prepareRow($row){
-$type= 'RADS';
-$status= 1;
-$title = $row->title;
-$result = db_query("SELECT nid,created FROM {node} Where type=:type and status =:status and title=:title ", array(':type'=>$type, ':status' =>1,':title'=>$title));
 
- //Result is returned as a iterable object that returns a stdClass object on each iteration
-//if(!empty($result)){
-$nid[]="";
+$title= $row->source_RADS_ID;
+$row->source_RADS_ID = $this->mylookup('Rads',$title);
 
-foreach ($result as $record) {
-  // Perform operations on $record->title, etc. here.
-  $nid[]= $record->nid;
 
-  }
-$row->source_RADS_ID = $nid;
+$title= $row->source_sponsor_ID;
+$row->source_sponsor_ID = $this->mylookup('sponsor',$title);
+
+$title= $row->source_program_ID;
+$row->source_program_ID = $this->mylookup('program',$title);
+
+
+$title= $row->source_type_ID;
+$row->source_type_ID = $this->mylookup('announcement_type',$title);
+
+
+ drush_print_r($row);
+  
+  
+  
+  //return $nid;
+
+}
 }
 
 
